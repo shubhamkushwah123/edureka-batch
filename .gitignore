@@ -1,1 +1,3 @@
 #all txt files needs to be ignored
+*.txt
+*.class
